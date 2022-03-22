@@ -8,7 +8,7 @@
 -  I’m currently learning >>
             Rust, V
 -  Favorite programming languages >>
-       1. C++
-       2. C
-       3. Lua
+       1. C++ |
+       2. C   |
+       3. Lua |
        4. Visual Basic
