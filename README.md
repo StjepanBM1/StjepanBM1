@@ -6,10 +6,8 @@
         Cmbal, Croatix (LFS version), Termi-Lua
         
 -  I’m currently learning >>
--   
             Rust, V
 -  Favorite programming languages >>
--  
        1. C++
        2. C
        3. Lua
