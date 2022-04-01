@@ -1,7 +1,7 @@
 # About me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiStjepanBM1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiStjepanBM1=anuraghazra&show_icons=true)
+https://github-readme-stats.vercel.app/apiStjepanBM1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats
+https://github-readme-stats.vercel.app/apiStjepanBM1=anuraghazra&show_icons=true
 
 ### I created the ringwormGO project
 
