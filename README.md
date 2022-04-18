@@ -14,7 +14,7 @@ I’m currently working on  >>
         
 I’m currently learning >>
 
-   1. Perl
+   1. ---
             
 Favorite programming languages >>
    1. C++
