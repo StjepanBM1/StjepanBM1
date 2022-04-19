@@ -6,15 +6,13 @@
 
 I’m currently working on  >>
 
-   Cmbal 
-        
-   Croatix (LFS version)
-        
-   Termi-Lua
+   Đ
+   
+   PekOS
         
 I’m currently learning >>
 
-   1. ---
+   1. -
             
 Favorite programming languages >>
    1. C++
@@ -23,6 +21,6 @@ Favorite programming languages >>
 
    3. Lua
 
-   4. Perl
+   4. Rust
 
    5. Visual Basic
