@@ -10,7 +10,7 @@ I’m currently working on  >>
         
 I’m currently learning >>
 
-   1. -
+   1. Fortran
             
 Favorite programming languages >>
    1. C++
