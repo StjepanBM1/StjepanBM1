@@ -5,8 +5,6 @@
 ### I created the ringwormGO project
 
 I’m currently working on  >>
-
-   Đ
    
    PekOS
         
