@@ -13,9 +13,9 @@ I’m currently learning >>
    1. GO
             
 Favorite programming languages >>
-   1. C++
+   1. C
 
-   2. C
+   2. C++
 
    3. Lua
 
