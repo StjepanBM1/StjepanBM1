@@ -17,7 +17,7 @@ Favorite programming languages >>
 
    2. Lua
 
-   3. Rust
+   3. ---
 
    4. C++
 
