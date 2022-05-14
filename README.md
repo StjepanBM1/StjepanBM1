@@ -15,10 +15,10 @@ I’m currently learning >>
 Favorite programming languages >>
    1. C
 
-   2. Lua
+   2. C++
 
-   3. ---
+   3. Lua
 
-   4. C++
+   4. Python
 
    5. Visual Basic
