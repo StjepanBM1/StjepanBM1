@@ -8,6 +8,8 @@
 I’m currently working on  >>
    
    PekOS
+   
+   ringOS Limine 2
         
 I’m currently learning >>
 
