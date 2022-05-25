@@ -13,7 +13,7 @@ I’m currently working on  >>
         
 I’m currently learning >>
 
-   1. C
+   1. Java
             
 Favorite programming languages >>
    1. C
