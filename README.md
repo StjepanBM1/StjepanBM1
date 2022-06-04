@@ -9,11 +9,11 @@ I’m currently working on  >>
    
    PekOS
    
-   ringOS Limine 2
+   ringOS
         
 I’m currently learning >>
 
-   1. Java
+   1. ---
             
 Favorite programming languages >>
    1. C
