@@ -13,7 +13,7 @@ I’m currently working on  >>
         
 I’m currently learning >>
 
-   1. ---
+   1. Cobol (yes really)
             
 Favorite programming languages >>
    1. C
