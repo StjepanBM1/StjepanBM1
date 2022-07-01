@@ -9,8 +9,6 @@ I’m currently working on  >>
    PekOS
    
    Termi-Lua
-   
-   ringOS
         
 I’m currently learning >>
 
