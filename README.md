@@ -12,7 +12,7 @@ I’m currently working on  >>
         
 I’m currently learning >>
 
-   1. Rust
+   1. Fortran
             
 Favorite programming languages >>
    1. C
