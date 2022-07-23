@@ -17,10 +17,10 @@ I’m currently learning >>
 Favorite programming languages >>
    1. C
 
-   2. C++
+   2. Go
 
-   3. Lua
+   3. C++
 
-   4. Python
+   4. Lua
 
-   5. Visual Basic
+   5. ---
