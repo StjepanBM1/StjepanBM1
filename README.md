@@ -12,7 +12,7 @@ I’m currently working on  >>
         
 I’m currently learning >>
 
-   1. Kotlin
+   1. Motorola 68K Assembly
             
 Favorite programming languages >>
    1. C
