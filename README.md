@@ -10,11 +10,11 @@ I’m currently working on  >>
    
    Termi-Lua
         
-I’m currently learning >>
+I’m currently learning >
 
    1. Motorola 68K Assembly
             
-Favorite programming languages >>
+Favorite programming languages >
    1. C
 
    2. Go
