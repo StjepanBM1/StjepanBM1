@@ -6,13 +6,11 @@
 
 I’m currently working on  >>
    
-   PekOS
-   
-   Termi-Lua
+   Dhar Mann OS
         
 I’m currently learning >
 
-   1. --
+   1. Perl
             
 Favorite programming languages >
    1. C
