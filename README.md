@@ -5,10 +5,8 @@
 ### I created the ringwormGO project
 
 I’m currently working on  >>
-   
-   Dhar Mann OS
-   
-   Fero (ringwormGO)
+
+   PekOS 8
    
 I’m currently learning >
 
