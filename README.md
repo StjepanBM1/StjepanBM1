@@ -10,6 +10,8 @@ I’m currently working on  >>
 
    PekOS 8
    
+   Guide to (GNU) Fortran (a book)
+   
 I’m currently learning >
 
    1. ---
