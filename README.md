@@ -8,7 +8,7 @@
 
 I’m currently working on  >>
 
-   PekOS 8
+   PekOS 9
    
 I’m currently learning >
 
