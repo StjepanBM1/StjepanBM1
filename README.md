@@ -4,16 +4,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StjepanBM1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 I’m currently ~~learning~~ <b>toying</b> around with :
-
-   - Pascal (for real this time...)
+            -
             
 Favorite programming languages :
-   1. C
+   1. C++
 
-   2. C++
+   2. C
 
-   3. Go
+   3. Lua
 
-   4. Lua
+   4. Pascal
 
    5. -
