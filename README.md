@@ -20,4 +20,4 @@ Favorite programming languages :
 
 # Message of the day
 
-Pascal is a bad language, but I kinda like it.
+More respect should be given to the people who actually make usable file systems
