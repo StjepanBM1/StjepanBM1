@@ -20,4 +20,4 @@ Favorite programming languages :
 
 # Message of the day
 
-More respect should be given to the people who actually make usable file systems
+2FA shouldn't be forced
