@@ -20,4 +20,5 @@ Favorite programming languages :
 
 # Message of the day
 
-2FA shouldn't be forced
+AT&T syntax is still better for assembly
+
