@@ -20,5 +20,5 @@ Favorite programming languages :
 
 # Message of the day
 
-AT&T syntax is still better for assembly
+tar is very useful
 
