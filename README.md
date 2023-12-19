@@ -20,5 +20,5 @@ Favorite programming languages :
 
 # Message of the day
 
-tar is very useful
+Ada is kinda weird
 
