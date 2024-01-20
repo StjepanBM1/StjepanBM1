@@ -4,8 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StjepanBM1&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
   
-I’m currently ~~learning~~ <b>toying</b> around with :
+I’m currently learning:
             -
+
+Currently working on:
+            - ING
             
 Favorite programming languages :
    1. C++
