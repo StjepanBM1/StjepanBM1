@@ -8,7 +8,7 @@ I’m currently learning:
             -
 
 Currently working on:
-            - ING
+            - a Fallout 1 like game
             
 Favorite programming languages :
    1. C++
@@ -23,5 +23,4 @@ Favorite programming languages :
 
 # Message of the day
 
-Ada is kinda weird
-
+It is not a comeback it is a return
