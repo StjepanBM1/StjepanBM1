@@ -8,7 +8,8 @@ I’m currently learning:
             -
 
 Currently working on:
-            - a Fallout 1 like game
+
+            - OS/1
             
 Favorite programming languages :
    1. C++
@@ -23,4 +24,4 @@ Favorite programming languages :
 
 # Message of the day
 
-It is not a comeback it is a return
+Blender texturing annoys me
