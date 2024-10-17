@@ -24,4 +24,5 @@ Favorite programming languages :
 
 # Message of the day
 
-Blender texturing annoys me
+I have returned
+- General Douglas MacArthur
