@@ -9,7 +9,7 @@ I’m currently learning:
 
 Currently working on:
 
-            - OS/1
+            - Aftershock --- a post-apoc. game set in Split, Croatia
             
 Favorite programming languages :
    1. C++
