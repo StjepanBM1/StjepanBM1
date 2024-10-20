@@ -24,5 +24,4 @@ Favorite programming languages :
 
 # Message of the day
 
-I have returned
-- General Douglas MacArthur
+Follow me on jarff: http://jarff.000.pe/u/dragonslayer/
