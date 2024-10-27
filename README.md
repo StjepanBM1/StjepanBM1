@@ -10,6 +10,7 @@ I’m currently learning:
 Currently working on:
 
             - Aftershock --- a post-apoc. game set in Split, Croatia
+            - OS/1
             
 Favorite programming languages :
    1. C++
@@ -24,4 +25,4 @@ Favorite programming languages :
 
 # Message of the day
 
-Follow me on jarff: http://jarff.000.pe/u/dragonslayer/
+Making a clone of UNIX's 'ar' in 16-bit assembly is a bit hard
