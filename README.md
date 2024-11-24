@@ -25,4 +25,4 @@ Favorite programming languages :
 
 # Message of the day
 
-Making a clone of UNIX's 'ar' in 16-bit assembly is a bit hard
+My shitty web forum is live: jarff.com
