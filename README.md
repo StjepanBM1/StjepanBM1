@@ -9,8 +9,7 @@ I’m currently learning:
 
 Currently working on:
 
-            - Aftershock --- a post-apoc. game set in Split, Croatia
-            - OS/1
+            - infrared --- a 3D-ish game "engine" written in C++
             
 Favorite programming languages :
    1. C++
@@ -25,4 +24,4 @@ Favorite programming languages :
 
 # Message of the day
 
-My shitty web forum is live: jarff.com
+Web hosting is hard
