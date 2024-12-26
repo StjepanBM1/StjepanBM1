@@ -9,7 +9,7 @@ I’m currently learning:
 
 Currently working on:
 
-            - ultrared --- a 3D-ish game "engine" written in C++
+            -
             
 Favorite programming languages :
    1. C++
