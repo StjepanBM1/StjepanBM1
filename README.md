@@ -9,7 +9,7 @@ I’m currently learning:
 
 Currently working on:
 
-            - infrared --- a 3D-ish game "engine" written in C++
+            - ultrared --- a 3D-ish game "engine" written in C++
             
 Favorite programming languages :
    1. C++
@@ -24,4 +24,4 @@ Favorite programming languages :
 
 # Message of the day
 
-Web hosting is hard
+3D space...
