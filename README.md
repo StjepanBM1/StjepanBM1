@@ -24,4 +24,5 @@ Favorite programming languages :
 
 # Message of the day
 
-3D space...
+My shitty website is back online!
+Go show it some love: www.jarff.com
